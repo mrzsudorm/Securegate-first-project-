@@ -35,4 +35,4 @@ This project was created to practise basic Python OOP concepts and understand ho
 
 Made by **Zaki Mohammed Yusuf Sayed**
 
-also the default username is Tyler Durden and password is Project Mayhem 
+also the default username is "Tyler Durden" and password is "Project Mayhem" 
