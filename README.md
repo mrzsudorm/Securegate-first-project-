@@ -7,7 +7,7 @@ The program asks the user to enter a username and password. It checks the entere
 
 # About Me
 
-- **Name:** Zaki MD Yusuf Sayed
+- **Name:** Zaki Mohammed Yusuf Sayed
 - **PRN:** 26013030081
 - **Course:** B.Tech CSE – Cybersecurity and Forensics
 - **Batch:** IBM3
@@ -15,29 +15,24 @@ The program asks the user to enter a username and password. It checks the entere
 ## Concepts Used
 
 - Classes and Objects
-- Constructor (`__init__`)
+- Constructor
 - Methods
 - Attributes
 - Conditional Statements
 
-## Technologies Used
-
-- Python
-- VS Code
 
 ## How to Run
 
 1. Download the project.
 2. Open the folder in VS Code.
-3. Run `main.py`.
+3. Run it 
 4. Enter the username and password.
 
 ## Project Purpose
 
 This project was created to practise basic Python OOP concepts and understand how a simple login authentication system works.
 
----
 
-Made by **Zaki MD Yusuf Sayed**
+Made by **Zaki Mohammed Yusuf Sayed**
 
 also the default username is Tyler Durden and password is Project Mayhem 
